@@ -1,0 +1,8 @@
+.formControl {
+  margin: 50px auto !important;
+  width: 50%;
+  text-align: center;
+}
+.nativeSelect {
+  background-color: rgb(238, 236, 236);
+}
